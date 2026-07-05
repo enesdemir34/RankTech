@@ -34,10 +34,12 @@ You can follow the steps below to run the project in your local environment:
 
 Bash
 git clone https://github.com/YOUR_USERNAME/ranktech.git
+
 2. Download the required Flutter packages:
 
 Bash
 flutter pub get
+
 3. Add Firebase configuration files:
 Add the google-services.json and GoogleService-Info.plist files to their respective directories within the project.
 
